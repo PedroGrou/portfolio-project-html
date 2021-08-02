@@ -372,3 +372,13 @@ body {
   width: 50px;
   transition: all 0.5s ease-in-out;
 }
+
+.web-port {
+  color: #fff;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.web-port:hover {
+  color: #007bff;
+}
